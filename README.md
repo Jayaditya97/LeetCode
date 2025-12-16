@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jayaditya97/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/Jayaditya97/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Jayaditya97/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Jayaditya97/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
