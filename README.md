@@ -10,6 +10,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jayaditya97/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Jayaditya97/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0739-daily-temperatures](https://github.com/Jayaditya97/LeetCode/tree/master/0739-daily-temperatures) |
 | [1929-concatenation-of-array](https://github.com/Jayaditya97/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -32,4 +33,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jayaditya97/LeetCode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Jayaditya97/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Jayaditya97/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
