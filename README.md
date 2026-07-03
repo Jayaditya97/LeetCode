@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jayaditya97/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jayaditya97/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0485-max-consecutive-ones](https://github.com/Jayaditya97/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Jayaditya97/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Jayaditya97/LeetCode/tree/master/0739-daily-temperatures) |
 | [1929-concatenation-of-array](https://github.com/Jayaditya97/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Jayaditya97/LeetCode/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Jayaditya97/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
