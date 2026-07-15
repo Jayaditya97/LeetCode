@@ -15,6 +15,7 @@
 | [0485-max-consecutive-ones](https://github.com/Jayaditya97/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Jayaditya97/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Jayaditya97/LeetCode/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/Jayaditya97/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1929-concatenation-of-array](https://github.com/Jayaditya97/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Jayaditya97/LeetCode/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Jayaditya97/LeetCode/tree/master/0904-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Jayaditya97/LeetCode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
