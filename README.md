@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jayaditya97/LeetCode/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Jayaditya97/LeetCode/tree/master/0076-minimum-window-substring) |
 ## Stack
 |  |
 | ------- |
@@ -65,9 +66,11 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Jayaditya97/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/Jayaditya97/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Jayaditya97/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/Jayaditya97/LeetCode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
