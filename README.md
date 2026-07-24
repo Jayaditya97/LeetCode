@@ -28,6 +28,7 @@
 | [0075-sort-colors](https://github.com/Jayaditya97/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Jayaditya97/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Jayaditya97/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Jayaditya97/LeetCode/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
@@ -43,6 +44,7 @@
 | [0020-valid-parentheses](https://github.com/Jayaditya97/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Jayaditya97/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Jayaditya97/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
