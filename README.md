@@ -54,6 +54,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Jayaditya97/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Jayaditya97/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Jayaditya97/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Jayaditya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/Jayaditya97/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -108,4 +109,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Jayaditya97/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Jayaditya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jayaditya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
