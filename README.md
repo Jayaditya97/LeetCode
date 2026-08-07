@@ -17,6 +17,7 @@
 | [0085-maximal-rectangle](https://github.com/Jayaditya97/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0283-move-zeroes](https://github.com/Jayaditya97/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Jayaditya97/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/Jayaditya97/LeetCode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Jayaditya97/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jayaditya97/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Jayaditya97/LeetCode/tree/master/0739-daily-temperatures) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Jayaditya97/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0622-design-circular-queue](https://github.com/Jayaditya97/LeetCode/tree/master/0622-design-circular-queue) |
 ## Simulation
 |  |
 | ------- |
@@ -112,9 +114,11 @@
 | [0155-min-stack](https://github.com/Jayaditya97/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Jayaditya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jayaditya97/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Jayaditya97/LeetCode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jayaditya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jayaditya97/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Jayaditya97/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
