@@ -51,6 +51,7 @@
 | [0125-valid-palindrome](https://github.com/Jayaditya97/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
+| [0649-dota2-senate](https://github.com/Jayaditya97/LeetCode/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
 | ------- |
@@ -125,10 +126,15 @@
 | [0225-implement-stack-using-queues](https://github.com/Jayaditya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jayaditya97/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Jayaditya97/LeetCode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Jayaditya97/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Jayaditya97/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jayaditya97/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Jayaditya97/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Jayaditya97/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
