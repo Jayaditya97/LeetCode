@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/Jayaditya97/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Jayaditya97/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/Jayaditya97/LeetCode/tree/master/0622-design-circular-queue) |
+| [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Jayaditya97/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jayaditya97/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Jayaditya97/LeetCode/tree/master/0739-daily-temperatures) |
@@ -34,6 +35,7 @@
 | [0125-valid-palindrome](https://github.com/Jayaditya97/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Jayaditya97/LeetCode/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Jayaditya97/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Jayaditya97/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
@@ -105,10 +108,12 @@
 | [0075-sort-colors](https://github.com/Jayaditya97/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jayaditya97/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Jayaditya97/LeetCode/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -147,6 +152,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
