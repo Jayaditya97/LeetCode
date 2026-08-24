@@ -44,6 +44,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/Jayaditya97/LeetCode/tree/master/1603-design-parking-system) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jayaditya97/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Jayaditya97/LeetCode/tree/master/1929-concatenation-of-array) |
 ## String
@@ -127,6 +128,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Jayaditya97/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Jayaditya97/LeetCode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Jayaditya97/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/Jayaditya97/LeetCode/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Jayaditya97/LeetCode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
