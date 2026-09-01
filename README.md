@@ -25,6 +25,7 @@
 | [0739-daily-temperatures](https://github.com/Jayaditya97/LeetCode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Jayaditya97/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jayaditya97/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1834-single-threaded-cpu](https://github.com/Jayaditya97/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1929-concatenation-of-array](https://github.com/Jayaditya97/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1834-single-threaded-cpu](https://github.com/Jayaditya97/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1834-single-threaded-cpu](https://github.com/Jayaditya97/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Quickselect
 |  |
 | ------- |
