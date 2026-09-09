@@ -19,6 +19,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Jayaditya97/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Jayaditya97/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Jayaditya97/LeetCode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Jayaditya97/LeetCode/tree/master/0704-binary-search) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Jayaditya97/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Jayaditya97/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -111,6 +113,7 @@
 | [0075-sort-colors](https://github.com/Jayaditya97/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1834-single-threaded-cpu](https://github.com/Jayaditya97/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Binary Search
@@ -148,6 +151,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Jayaditya97/LeetCode/tree/master/0649-dota2-senate) |
 ## Divide and Conquer
 |  |
@@ -157,6 +161,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1834-single-threaded-cpu](https://github.com/Jayaditya97/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Quickselect
@@ -166,5 +171,6 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [1603-design-parking-system](https://github.com/Jayaditya97/LeetCode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
