@@ -18,6 +18,7 @@
 | [0085-maximal-rectangle](https://github.com/Jayaditya97/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Jayaditya97/LeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Jayaditya97/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Jayaditya97/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Jayaditya97/LeetCode/tree/master/0622-design-circular-queue) |
@@ -38,6 +39,7 @@
 | [0125-valid-palindrome](https://github.com/Jayaditya97/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Jayaditya97/LeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Jayaditya97/LeetCode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
@@ -113,6 +115,7 @@
 | [0075-sort-colors](https://github.com/Jayaditya97/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Jayaditya97/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Jayaditya97/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1834-single-threaded-cpu](https://github.com/Jayaditya97/LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -151,6 +154,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Jayaditya97/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Jayaditya97/LeetCode/tree/master/0649-dota2-senate) |
 ## Divide and Conquer
@@ -173,4 +177,8 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [1603-design-parking-system](https://github.com/Jayaditya97/LeetCode/tree/master/1603-design-parking-system) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Jayaditya97/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
