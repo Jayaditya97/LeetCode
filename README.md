@@ -26,6 +26,7 @@
 | [0704-binary-search](https://github.com/Jayaditya97/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jayaditya97/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Jayaditya97/LeetCode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Jayaditya97/LeetCode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Jayaditya97/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jayaditya97/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1834-single-threaded-cpu](https://github.com/Jayaditya97/LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -157,6 +158,7 @@
 | [0455-assign-cookies](https://github.com/Jayaditya97/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Jayaditya97/LeetCode/tree/master/0649-dota2-senate) |
+| [0860-lemonade-change](https://github.com/Jayaditya97/LeetCode/tree/master/0860-lemonade-change) |
 ## Divide and Conquer
 |  |
 | ------- |
