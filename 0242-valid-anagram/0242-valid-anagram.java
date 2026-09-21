@@ -1,22 +1,27 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+        // If lengths differ, they cannot be anagrams
         if (s.length() != t.length()) {
             return false;
         }
-        HashMap<Character, Integer> map = new HashMap<>();
-        for (char ch : s.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+
+        // Array for lowercase English letters ('a' through 'z')
+        // If dealing with Unicode, use a HashMap instead: Map<Character, Integer> map = new HashMap<>();
+        int[] charCounts = new int[26];
+
+        // Count characters in s and t
+        for (int i = 0; i < s.length(); i++) {
+            charCounts[s.charAt(i) - 'a']++;
+            charCounts[t.charAt(i) - 'a']--;
         }
-        for (char ch : t.toCharArray()) {
-            if (!map.containsKey(ch)) {
+
+        // Check if all counts are zero
+        for (int count : charCounts) {
+            if (count != 0) {
                 return false;
             }
-            map.put(ch, map.get(ch) - 1);
-            if (map.get(ch) == 0) {
-                map.remove(ch);
-            }
         }
-        
-        return map.isEmpty();
+
+        return true;
     }
 }
