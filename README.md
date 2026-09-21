@@ -63,6 +63,7 @@
 | [0125-valid-palindrome](https://github.com/Jayaditya97/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Jayaditya97/LeetCode/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
@@ -105,6 +106,7 @@
 | [0049-group-anagrams](https://github.com/Jayaditya97/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayaditya97/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Jayaditya97/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
@@ -148,6 +150,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jayaditya97/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jayaditya97/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Jayaditya97/LeetCode/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Jayaditya97/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Jayaditya97/LeetCode/tree/master/0933-number-of-recent-calls) |
@@ -181,6 +184,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
 | [1603-design-parking-system](https://github.com/Jayaditya97/LeetCode/tree/master/1603-design-parking-system) |
 ## Quicksort
