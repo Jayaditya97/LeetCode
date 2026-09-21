@@ -12,6 +12,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jayaditya97/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jayaditya97/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/Jayaditya97/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Jayaditya97/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Jayaditya97/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jayaditya97/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jayaditya97/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Jayaditya97/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayaditya97/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Jayaditya97/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -100,6 +102,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Jayaditya97/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayaditya97/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/Jayaditya97/LeetCode/tree/master/0621-task-scheduler) |
@@ -113,6 +116,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Jayaditya97/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Jayaditya97/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
