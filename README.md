@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/Jayaditya97/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Jayaditya97/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Jayaditya97/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Jayaditya97/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jayaditya97/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Jayaditya97/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -198,4 +199,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Jayaditya97/LeetCode/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jayaditya97/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jayaditya97/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
