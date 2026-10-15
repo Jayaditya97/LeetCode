@@ -12,6 +12,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jayaditya97/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jayaditya97/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Jayaditya97/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Jayaditya97/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Jayaditya97/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Jayaditya97/LeetCode/tree/master/0075-sort-colors) |
@@ -107,6 +108,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jayaditya97/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Jayaditya97/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayaditya97/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Jayaditya97/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -143,6 +145,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jayaditya97/LeetCode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Jayaditya97/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Design
 |  |
@@ -202,9 +205,18 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jayaditya97/LeetCode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Jayaditya97/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jayaditya97/LeetCode/tree/master/0078-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Jayaditya97/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Jayaditya97/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
