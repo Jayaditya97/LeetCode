@@ -72,6 +72,7 @@
 | [0242-valid-anagram](https://github.com/Jayaditya97/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jayaditya97/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Jayaditya97/LeetCode/tree/master/0649-dota2-senate) |
+| [1143-longest-common-subsequence](https://github.com/Jayaditya97/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0322-coin-change](https://github.com/Jayaditya97/LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Jayaditya97/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Jayaditya97/LeetCode/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/Jayaditya97/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -237,4 +239,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Jayaditya97/LeetCode/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Jayaditya97/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
