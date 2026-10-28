@@ -21,6 +21,7 @@
 | [0085-maximal-rectangle](https://github.com/Jayaditya97/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaditya97/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Jayaditya97/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Jayaditya97/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayaditya97/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Jayaditya97/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Jayaditya97/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Jayaditya97/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0322-coin-change](https://github.com/Jayaditya97/LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Jayaditya97/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Jayaditya97/LeetCode/tree/master/0518-coin-change-ii) |
 ## Recursion
@@ -224,9 +226,15 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Jayaditya97/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jayaditya97/LeetCode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Jayaditya97/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jayaditya97/LeetCode/tree/master/0518-coin-change-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Jayaditya97/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
