@@ -1,4 +1,3 @@
-
 class Solution {
     public int change(int amount, int[] coins) {
         int[][] dp = new int[coins.length][amount + 1];
@@ -10,7 +9,7 @@ class Solution {
         return solve(amount, coins, 0, dp);
     }
 
-    private int solve(int amount, int[] coins, int i, int[][] dp) {
+    public int solve(int amount, int[] coins, int i, int[][] dp) {
         if (amount == 0) return 1;
         if (amount < 0 || i == coins.length) return 0;
 
@@ -24,4 +23,3 @@ class Solution {
         return dp[i][amount] = take + skip;
     }
 }
-
